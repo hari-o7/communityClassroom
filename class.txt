@@ -1,0 +1,5 @@
+I sem
+II sem
+III sem
+IV sem
+V sem(current sem)
